@@ -6,10 +6,8 @@
 
 🚀 About Me  
 I'm a passionate **Java Backend Developer** focused on building clean, scalable, and real-world backend applications using  
-**Java, Spring Boot, MySQL, and REST APIs**.  
+*Java, Spring Boot, MySQL, and REST APIs*.  
 I enjoy solving problems, improving system architecture, and learning new technologies every day.
-
----
 
 🛠 Tech Stack
 
@@ -23,8 +21,7 @@ I enjoy solving problems, improving system architecture, and learning new techno
 
 🔸 Database
 - MySQL  
-- SQL  
-- JDBC  
+- SQL   
 
 🔸 Tools & Technologies
 - Git & GitHub  
@@ -37,38 +34,32 @@ I enjoy solving problems, improving system architecture, and learning new techno
 - CSS  
 - JavaScript  
 
----
-
 📌 Featured Projects (Pinned)
 
-🔹 **E-Commerce Backend (Spring Boot + MySQL)**
+🔹 *E-Commerce Backend (Spring Boot + MySQL)*
 A complete backend system for an e-commerce platform.  
-**Features:**  
+*Features:  
 - User Register/Login  
 - Product CRUD  
 - Cart & Order API  
 - Admin Management  
 - Layered Architecture  
 - MySQL Integration  
-- Postman Testing  
-
-🔹 **Blog Application API (Spring Boot + SQL)**
+- Postman Testing
+  
+🔹 *Blog Application API (Spring Boot + SQL)*
 Backend API for a blogging platform.  
-**Features:**  
+*Features:*  
 - Post CRUD  
 - Category & Comments API  
 - User Authentication  
 - Exception Handling  
 - DTOs, Validation  
 
----
-
  📈 Current Focus
 - Building high-quality backend systems  
 - Practicing DSA (Arrays, Strings, HashMap, Stack/Queue)  
 - Learning Microservices fundamentals (Eureka, API Gateway basics)  
-
----
 
  🌐 Connect With Me
 📧 *Email:* ankuriimt2001@gmail.com  
