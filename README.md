@@ -4,12 +4,12 @@
 
 ---
 
-🚀 About Me  
+About Me  
 I'm a passionate **Java Backend Developer** focused on building clean, scalable, and real-world backend applications using  
 *Java, Spring Boot, MySQL, and REST APIs*.  
 I enjoy solving problems, improving system architecture, and learning new technologies every day.
 
-🛠 Tech Stack
+Tech Stack
 
 🔸 Backend
 - Java  
@@ -34,7 +34,7 @@ I enjoy solving problems, improving system architecture, and learning new techno
 - CSS  
 - JavaScript  
 
-📌 Featured Projects (Pinned)
+Featured Projects (Pinned)
 
 🔹 *E-Commerce Backend (Spring Boot + MySQL)*
 A complete backend system for an e-commerce platform.  
