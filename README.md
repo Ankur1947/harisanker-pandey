@@ -62,7 +62,8 @@ Backend API for a blogging platform.
 - Learning Microservices fundamentals (Eureka, API Gateway basics)  
 
  🌐 Connect With Me
- *Email:* ankuriimt2001@gmail.com  
-🔗 *LinkedIn:* www.linkedin.com/in/
+ 
+ Email: ankuriimt2001@gmail.com  
+🔗 LinkedIn: www.linkedin.com/in/
 harisankar-pandey-128884212  
- *GitHub:** github.com/Ankur1947
+ GitHub: github.com/Ankur1947
