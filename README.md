@@ -64,6 +64,6 @@ Backend API for a blogging platform.
  🌐 Connect With Me
  
  Email: ankuriimt2001@gmail.com  
-🔗 LinkedIn: www.linkedin.com/in/
-harisankar-pandey-128884212  
+ LinkedIn: www.linkedin.com/in/
+ harisankar-pandey-128884212  
  GitHub: github.com/Ankur1947
